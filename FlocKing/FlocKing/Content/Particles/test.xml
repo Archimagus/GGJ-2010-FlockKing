@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="FlocKing.Particles.ParticleSystem">
+    <MinInitialSpeed>70</MinInitialSpeed>
+    <MaxInitialSpeed>115</MaxInitialSpeed>
+    <MinAcceleration>0</MinAcceleration>
+    <MaxAcceleration>0</MaxAcceleration>
+
+    <MinLifetime>.2</MinLifetime>
+    <MaxLifetime>3</MaxLifetime>
+
+    <MinScale>0.4</MinScale>
+    <MaxScale>0.7</MaxScale>
+
+    <MinNumParticles>10</MinNumParticles>
+    <MaxNumParticles>20</MaxNumParticles>
+
+    <MinRotationSpeed>-3.0</MinRotationSpeed>
+    <MaxRotationSpeed>3.0</MaxRotationSpeed>
+
+    <MinInitialAngle>0</MinInitialAngle>
+    <MaxInitialAngle>0.3</MaxInitialAngle>
+  </Asset>
+</XnaContent>
